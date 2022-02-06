@@ -21,7 +21,7 @@ body {
   border-radius: var(--font-size);
   -webkit-box-shadow: 0px 22px 47px -16px rgba(0, 0, 0, 0.51);
   box-shadow: 0px 30px 50px -50px var(--dark-blue);
-  transition: 1s ease-in;
+  transition: 0.8s ease-in;
 }
 .qr__container.initial {
   transform: scale(0.01);
