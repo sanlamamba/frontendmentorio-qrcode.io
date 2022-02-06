@@ -16,7 +16,7 @@ body {
 .qr__container {
   background-color: var(--white);
   width: 100%;
-  max-width: 320px;
+  max-width: 350px;
   padding: 20px;
   border-radius: var(--font-size);
   -webkit-box-shadow: 0px 22px 47px -16px rgba(0, 0, 0, 0.51);
@@ -37,7 +37,7 @@ body {
 }
 
 .qr__text_container {
-  padding: 10px;
+  padding: 5px;
 }
 .qr__text {
   font-family: var(--font-family);
